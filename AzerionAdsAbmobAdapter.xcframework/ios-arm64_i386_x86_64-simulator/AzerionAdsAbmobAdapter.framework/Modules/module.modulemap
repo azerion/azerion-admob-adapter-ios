@@ -1,0 +1,6 @@
+framework module AzerionAdsAbmobAdapter {
+  umbrella header "AzerionAdsAbmobAdapter.h"
+
+  export *
+  module * { export * }
+}
