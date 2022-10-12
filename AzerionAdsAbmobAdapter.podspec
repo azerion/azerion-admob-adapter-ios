@@ -12,5 +12,7 @@ s.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
 s.documentation_url = 'https://github.com/azerion/azerion-admob-adapter-ios'
 s.ios.deployment_target = '10.0'
 s.vendored_frameworks = 'AzerionAdsAbmobAdapter.xcframework'
-
+s.dependency 'GoogleAds-IMA-iOS-SDK', '3.14.3'
+s.dependency 'Google-Mobile-Ads-SDK', '9.5.0'
+s.dependency 'AzerionAdsMediationCore', '1.0.0'
 end
