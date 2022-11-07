@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
 s.name = 'AzerionAdsAbmobAdapter'
-s.version = '1.0.0'
+s.version = '1.0.1'
 s.summary = 'Adapter of AdMob for AzerionAds'
 s.homepage = 'https://github.com/azerion/azerion-admob-adapter-ios'
 s.authors = { 'Azerion' => 'adsdk_techuser@azerion.com' }
